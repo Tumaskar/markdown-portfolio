@@ -1,4 +1,5 @@
 
 Emoji
 football
-cricket
+*cricket
+*tennis
